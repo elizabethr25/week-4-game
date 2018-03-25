@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+}
+
+#header {
+    background-color: darkorange;
+    width: 250px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    font-family: "Arial", sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    color: white;
+}
+
+#rules { 
+    background-color: #FCFBE3;
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Arial", sans-serif;
+    line-height: 1.1; 
+    color: darkgreen;
+}
+
+#randomnum {
+    background-color: lightgreen;
+    width: 225px;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Arial", sans-serif;
+    color: purple;
+    font-size: 30px;
+    padding-bottom: 50px;
+    display: inline-block;
+}
+
+#counter {
+    background-color: aqua;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    clear: both;
+}
+
+.crystals {
+    width: 115px;
+    height: 100px;
+    margin-left: 10px
+}
+
+#yourtext {
+    background-color: rgb(41, 155, 144);
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    font-family: "Arial", sans-serif;
+}
+
+#yourscore {
+    background-color: rgb(41, 155, 144);
+    width: 300px;
+    margin: 10px;
+    height: 50px;
+    padding: 10px;
+    color: white;
+    font-family: "Arial", sans-serif;
+    font-size: 30px;
+}
+
+
+
