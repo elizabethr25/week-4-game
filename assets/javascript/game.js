@@ -119,10 +119,6 @@ var yourscore = 0;
 
 
 
-//Alert you won!
-
-
-
 //Assign new random numbers to the crystals 
 
 //Generate a new random number
